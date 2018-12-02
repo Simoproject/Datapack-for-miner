@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_ore"
+        }
+    ],
+    "result": {
+        "item": "minecraft:gold_ingot",
+        "count": 3
+    },
+    "group": "stuff"
+}
